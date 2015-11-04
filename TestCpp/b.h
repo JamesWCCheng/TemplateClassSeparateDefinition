@@ -4,5 +4,8 @@
 class B
 {
 public:
-  void XDD() {}
+  A<int> aobj;
+  void XDD() {
+  
+  }
 };
